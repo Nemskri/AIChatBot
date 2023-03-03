@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIChatBot/static/css/main.2f8beb14.css",
+    "main.js": "/AIChatBot/static/js/main.6a1755a1.js",
+    "index.html": "/AIChatBot/index.html",
+    "main.2f8beb14.css.map": "/AIChatBot/static/css/main.2f8beb14.css.map",
+    "main.6a1755a1.js.map": "/AIChatBot/static/js/main.6a1755a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f8beb14.css",
+    "static/js/main.6a1755a1.js"
+  ]
+}
